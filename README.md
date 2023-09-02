@@ -9,6 +9,7 @@
   <p align="center">
     <!-- HTML TABLE PROJECT -->
   
+
  <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -21,18 +22,13 @@
     <li>
        <a href="#Projects">Project</a>
       <ul>
-        <li><a href="#Forms">HTML form</a></li>
-
-
-        
+        <li><a href="#Forms">FORM</a></li>
          <li><a href="#Resources">Resources</a></li>
-         <li><a href="#Built with">Built with</a></li> 
-          <li><a href="#Contributing">Contributing</a></li> 
-
+          <li><a href="#Builtwith">Built with</a></li>
+          <li><a href="#Contributing">Contributing</a></li>
       </ul>
       <li><a href="#contact">Contact</a></li>
       <li><a href="#Acknowlegement">Acknowlegement:</a></li>
-  </ol>
   </ol>
 </details>
   
@@ -45,7 +41,7 @@
   The HTML form was one of my first project where I worked on HTML forms. I first coded my html codes and further went a head to style my form using some bit of external css style also  i used inline css too.Here in htlm i wrapped up my form by using Fieldset.
   This form is about personal sign up details.
 
-  ## Built with:
+  ## Builtwith:
   HTML5
   CSS style 
   
